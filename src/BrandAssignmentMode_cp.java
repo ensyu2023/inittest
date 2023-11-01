@@ -19,9 +19,9 @@ public class BrandAssignmentMode extends TemplateExecutor {
 
 
 		return sql;
+
 	}
 }
-
 
 
 
